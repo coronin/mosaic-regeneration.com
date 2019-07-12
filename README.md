@@ -1,2 +1,2 @@
 # coronin.github.io
-homepage for mosaic-regeneration
+homepage for mosaic-regeneration.com
